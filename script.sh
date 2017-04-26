@@ -27,3 +27,4 @@ rm -rf user_conex.txt
 
 echo 'Numero Total de Usuarios Simultaneos: ' $USER_SIMUL
 echo 'Numero de Usuarios de Conexoes: ' $USER_CONEX 
+
